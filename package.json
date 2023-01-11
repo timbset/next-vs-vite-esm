@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
+    "dev:next": "next",
     "dev:vite": "vite"
   },
   "dependencies": {
@@ -14,6 +15,7 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "next": "^13.1.1",
     "vite": "^2.3.8"
   },
   "repository": "https://github.com/timbset/next-vs-vite-esm",
